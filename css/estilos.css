@@ -21,3 +21,18 @@ table{
     height: 800px;
     border-radius: 5px;
 }
+.uva{
+    width: 300px; 
+    height: 100%; /* ancho por defecto*/
+    border-radius: 5px; /*esquina redondeada*/
+}
+.titulo{
+    text-align: center;
+    color: rgb(93, 17, 164);
+    font-size: 22px;
+}
+p{
+    text-align: justify;
+    padding-right: 15px;
+    font-size: 18px;
+}
