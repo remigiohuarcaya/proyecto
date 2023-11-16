@@ -1,0 +1,50 @@
+/*Fondo de la página
+color : Nombre de color
+        rgb(255,255,255) 
+        Hexadecimal
+        HSL Tonos intensidad
+*/
+body{
+    background-color:#FEF7D0;
+}
+/*Estilo para h1*/
+h1{
+    font-size: 30px; /* Tamaño de letra*/
+    color:blue; /*Color de texto*/    
+}
+h2{    
+    color: blueviolet;
+}
+
+h1, h2{
+    text-align:center;
+}
+p{
+   border: 1px solid red; 
+   padding: 15px;
+}
+
+a{
+    color: red;
+}
+
+.forma-p{
+    color: chocolate;
+    font-size: 20px;
+    margin: 40px;
+}
+
+.forma-p a{
+    color: green;
+}
+
+#parrafo{
+    background-color: azure;
+}
+
+/* el uso del * aplica a toda la página*/
+*{
+    font-weight: bold;
+}
+
+
